@@ -1,2 +1,1 @@
- modified # PacoGIT, another add to test second change.
- New features add on brunch
+Merge with conflicts I
